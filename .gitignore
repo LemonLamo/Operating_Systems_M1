@@ -1,0 +1,41 @@
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# C/C++
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+*.a
+*.out
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+compile_commands.json
+
+# Build artifacts, packaging
+dist/
+build/
+
+
+# IDE specific
+.vscode/
+.idea/
+*.code-workspace
+
+
+# Misc
+.DS_Store
+*~ 
+*.swp
+*.swo
+!.gitignore
+
+
